@@ -4,3 +4,5 @@ Exploratory data analysis has been done to confirm our assumptions before implem
 Error and plotting distribution plots.
 
 The R^2 comes out to be 0.91, which indicates that our model is a good fit.
+
+The data is taken from: https://www.kaggle.com/vedavyasv/usa-housing?select=USA_Housing.csv
